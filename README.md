@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,7 +28,7 @@
 ###
 
 <div align="left">
-  <p>I specialize in crafting dynamic UIs with Next.js, React,  and I'm proficient in JavaScript and TypeScript. I'm passionate about front-end development and have experience converting PSD and Figma designs to React and Next.js. I have 1 year of experience as a frontend web developer, and I can also work with TypeScript, HTML, CSS, JavaScript, and Tailwind CSS.</p>
+  <p>I specialize in crafting dynamic UIs with Next.js, React, and Svelte, and I'm proficient in JavaScript and TypeScript. I'm passionate about front-end development and have experience converting PSD and Figma designs to React and Next.js. I have 1 year of experience as a frontend web developer, and I can also work with TypeScript, HTML, CSS, JavaScript, and Tailwind CSS.</p>
 </div>
 
 ###
