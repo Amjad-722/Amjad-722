@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Amjad-722/Amjad-722/blob/main/github%20Banner.png)
 # Hi there, I'm Amjad Ali :wave:
 ## About Me
 I'm a passionate frontend developer and UI/UX designer dedicated to crafting clean and efficient code along with engaging and intuitive designs. With a deep understanding of modern web technologies, design principles, and best practices, I strive to deliver outstanding user experiences.
