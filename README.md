@@ -8,11 +8,11 @@ I'm a passionate frontend developer and UI/UX designer dedicated to crafting cle
 - **Design Tools:** Figma, Adobe XD, Canva, Photoshop
 - **Tools & Platforms:** Storybook, Git, GitHub, Visual Studio Code
 ## My GitHub Stats
+
 <div align="start" style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amjad-722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="flex: 1; height: 150px;" width="49%" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjad-722&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=dracula&hide_border=false" style="flex: 1; height: 150px;" width="49%" alt="Top Languages Graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Amjad-722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="flex: 1; height: 150px;" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjad-722&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=dracula&hide_border=false" style="flex: 1; height: 150px; " width="49%" alt="Top Languages Graph" />
+</div>
 
 ## Projects
 
@@ -55,4 +55,4 @@ Below are some of the projects I've worked on. Feel free to check them out:
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-###
+
