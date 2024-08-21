@@ -1,7 +1,26 @@
 ![logo](https://github.com/Amjad-722/Amjad-722/blob/main/github.png)
-# Hi there, I'm Amjad Ali :wave:
+
 ## About Me
-I'm a passionate frontend developer and UI/UX designer dedicated to crafting clean and efficient code along with engaging and intuitive designs. With a deep understanding of modern web technologies, design principles, and best practices, I strive to deliver outstanding user experiences.
+Are you searching for an expert 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who can bring your 𝘄𝗲𝗯 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 to life with exceptional 𝗱𝗲𝘀𝗶𝗴𝗻 and functionality?
+
+Hi there,
+
+You’ve come to the right place! I’m a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with over 3 years of experience, specializing in 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀. My focus is on 𝗰𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝘃𝗶𝘀𝘂𝗮𝗹𝗹𝘆 𝘀𝘁𝘂𝗻𝗻𝗶𝗻𝗴, 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲, and 𝗵𝗶𝗴𝗵-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 that not only meet but exceed expectations.
+
+Throughout my career, I’ve collaborated with diverse teams to turn ideas into 𝗽𝗶𝘅𝗲𝗹-𝗽𝗲𝗿𝗳𝗲𝗰𝘁, 𝗦𝗘𝗢-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆, and 𝗳𝘂𝗹𝗹𝘆 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 and landing pages.
+
+What I Can Do for You:
+
+Frontend Expertise:
+
+- Proficient in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗘𝗦𝟲), 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗦𝘃𝗲𝗹𝘁𝗲, 𝗦𝘃𝗲𝗹𝘁𝗲𝗞𝗜𝗧, 𝗮𝗻𝗱 𝗩𝗶𝘁𝗲.
+- Expert in converting design files (𝗙𝗶𝗴𝗺𝗮, 𝗫𝗗, 𝗦𝗸𝗲𝘁𝗰𝗵, 𝗣𝗦𝗗) into pixel-perfect, mobile-first, and W3C validated code.
+- Skilled in advanced CSS techniques, including BEM, 𝗙𝗹𝗲𝘅𝗯𝗼𝘅, and CSS Grid, to create robust and scalable layout designs.
+
+Backend & CMS Platforms:
+
+- Extensive experience with platforms like 𝗦𝗵𝗼𝗽𝗶𝗳𝘆, 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀, 𝗖𝗿𝗮𝗳𝘁 𝗖𝗠𝗦, and 𝘀𝘁𝗮𝘁𝗶𝗰 𝘀𝗶𝘁𝗲 𝗴𝗲𝗻𝗲Type your text here and 𝗳𝗼𝗿𝗺𝗮𝘁 it by highlighting the text you want to format and clicking one of the buttons above. The eraser button will convert your selection back to normal text.
+less
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Libraries:** ReactJS, Next.js, TailwindCSS, Bootstrap
