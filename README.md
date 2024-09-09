@@ -36,7 +36,7 @@ less
 ## Projects
 
 Below are some of the projects I've worked on. Feel free to check them out:
-- [Portfolio](https://github.com/Rashid-Aly/next-portfolio) - Explore my professional journey through this custom-built portfolio website. Created with Next.js and Tailwind CSS, this site features a clean, modern design that showcases my projects, skills, and design philosophy. It serves as a living document of my growth as a frontend developer and UI/UX designer.
+- [Portfolio](https://github.com/Amjad-722/E-shop-web) - Explore my professional journey through this custom-built portfolio website. Created with Next.js and Tailwind CSS, this site features a clean, modern design that showcases my projects, skills, and design philosophy. It serves as a living document of my growth as a frontend developer and UI/UX designer.
 - [CandyCrush Clone](GitHub_Project_Link) - A vibrant and engaging match-three puzzle game, this project is a tribute to the classic Candy Crush. Developed using modern web technologies, it
 - showcases smooth animations, responsive gameplay, and challenging levels designed to test strategic thinking and speed.
 - [Animatedportfolio](GitHub_Project_Link) - A brief description of the project.
