@@ -36,9 +36,8 @@ less
 ## Projects
 
 Below are some of the projects I've worked on. Feel free to check them out:
-- [Portfolio](https://github.com/Amjad-722/E-shop-web) - Explore my professional journey through this custom-built E-comerce shop. Created with Svelte.js and Tailwind CSS, this site features a clean, modern design that showcases my projects, skills, and design philosophy. It serves as a living document of my growth as a frontend developer and UI/UX designer.
-- [CandyCrush Clone](GitHub_Project_Link) - A vibrant and engaging match-three puzzle game, this project is a tribute to the classic Candy Crush. Developed using modern web technologies, it
-- showcases smooth animations, responsive gameplay, and challenging levels designed to test strategic thinking and speed.
+- [E-shop](https://github.com/Amjad-722/E-shop-web) - Explore my professional journey through this custom-built E-comerce shop. Created with Svelte.js and Tailwind CSS, this site features a clean, modern design that showcases my projects, skills, and design philosophy. It serves as a living document of my growth as a frontend developer and UI/UX designer.
+- [Weather App](https://github.com/Amjad-722/Weather-app) -. I developed a modern Weather App using HTML, CSS, and React, designed to provide real-time weather data. Users can search for current conditions by city, and the app displays temperature, humidity, wind speed, and more. Features include real-time updates via the OpenWeatherMap API, responsive design, weather icons, and error handling. This project demonstrates my proficiency in React, JavaScript, and API integration.
 - [Animatedportfolio](GitHub_Project_Link) - A brief description of the project.
   
   ##
