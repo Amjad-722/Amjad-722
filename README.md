@@ -22,9 +22,8 @@ Backend & CMS Platforms:
 - Extensive experience with platforms like 𝗦𝗵𝗼𝗽𝗶𝗳𝘆, 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀, 𝗖𝗿𝗮𝗳𝘁 𝗖𝗠𝗦, and 𝘀𝘁𝗮𝘁𝗶𝗰 𝘀𝗶𝘁𝗲 𝗴𝗲𝗻𝗲Type your text here and 𝗳𝗼𝗿𝗺𝗮𝘁 it by highlighting the text you want to format and clicking one of the buttons above. The eraser button will convert your selection back to normal text.
 less
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** ReactJS, Next.js, TailwindCSS, Bootstrap
-- **Design Tools:** Figma, Adobe XD, Canva, Photoshop
+- **Languages:** HTML, CSS, JavaScript, 
+- **Frameworks & Libraries:** SvelteJS, SvelteKIT, TailwindCSS, Bootstrap
 - **Tools & Platforms:** Storybook, Git, GitHub, Visual Studio Code
 ## My GitHub Stats
 
