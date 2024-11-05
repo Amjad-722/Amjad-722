@@ -1,4 +1,4 @@
-![logo](https://github.com/Amjad-722/Amjad-722/blob/main/github.png)
+<a href="https://app.daily.dev/amjadali52"><img src="https://api.daily.dev/devcards/v2/ztxY3UeNU8ky2h4r6DF8F.png?r=amg" width="356" alt="Amjad Ali's Dev Card"/></a>
 
 Hi 👋 My name is Amjad Ali
 ==========================
