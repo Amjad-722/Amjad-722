@@ -1,12 +1,12 @@
 
 
-Hi 👋 My name is Amjad Ali
+Hi! My name is Amjad Ali
 ==========================
 
-Front -end Developer and Software Enginner
+Front-end Developer and Software Enginner
 ------------------------------------------
 
-Hey Welcome ,Amjad ali here ,A web developer with extensive experience in HTML, CSS, JavaScript , React ,Svelte,Sveltekit . I can build fully responsive ,Eye Catching and user friendly websites that are optimized . My focus is on writing clean code and creating user-centered designs . Services I Offer: Frontend Development, HTML, CSS, Tailwind Figma to HTML, xd to HTML, Canva to Html, JavaScript, Svelte, SvelteKIT, Bug Fixing,
+Hey Welcome ,to my profile , Am A web developer with extensive experience in HTML, CSS, JavaScript ,Svelte,Sveltekit . I can build fully responsive ,Eye Catching and user friendly websites that are optimized . My focus is on writing clean code and creating user-centered designs . Services I Offer: Frontend Development, HTML, CSS, Tailwind Figma to HTML, xd to HTML, Canva to Html, JavaScript, Svelte, SvelteKIT, Bug Fixing,
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [my portfolio](http://typescript-portfolio-eight.vercel.app/)
