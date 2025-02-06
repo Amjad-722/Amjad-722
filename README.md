@@ -12,7 +12,7 @@ Hey Welcome! to my profile , Am A web developer with extensive experience in HTM
 * See my portfolio at [my portfolio](http://typescript-portfolio-eight.vercel.app/)
 * You can contact me at [aliamjadnagari@gmail.com](mailto:aliamjadnagari@gmail.com)
 * I'm currently working on [E-commerce Website](http://e-commerce-headphones-s.vercel.app/)
-* 🧠  I'm learning Svelte 5 with Tailwind
+* I'm learning Svelte 5 with Tailwind
     I'm open to collaborating on Front end Development
 
 <a href="https://www.github.com/Amjad-722" target="_blank" rel="noreferrer"><img
