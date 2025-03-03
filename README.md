@@ -13,7 +13,7 @@ Hey Welcome! to my profile , Am A web developer with extensive experience in HTM
 * You can contact me at [aliamjadnagari@gmail.com](mailto:aliamjadnagari@gmail.com)
 * I'm currently working on [E-commerce Website](http://e-commerce-headphones-s.vercel.app/)
 * I'm learning Svelte 5 with Tailwind
-    I'm open to collaborating on Front end Development
+  I'm open to collaborating on Front end Development
 
 <a href="https://www.github.com/Amjad-722" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amjad-722?logo=github&style=for-the-badge&color=ef4444&labelColor=14532d" /></a>
