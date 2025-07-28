@@ -9,7 +9,7 @@ Front-end Developer and Software Enginner
 Hey Welcome! to my profile , Am A web developer with extensive experience in HTML, CSS, JavaScript ,Svelte,Sveltekit . I can build fully responsive ,Eye Catching and user friendly websites that are optimized . My focus is on writing clean code and creating user-centered designs . Services I Offer: Frontend Development, HTML, CSS, Tailwind Figma to HTML, xd to HTML, Canva to Html, JavaScript, Svelte, SvelteKIT, Bug Fixing,
 
 
-* See my portfolio at [my portfolio](my-own-qvns.vercel.app/)
+* See my portfolio at [my portfolio](https://my-own-qvns.vercel.app/)
 * You can contact me at [aliamjadnagari@gmail.com](mailto:aliamjadnagari@gmail.com)
 * I'm currently working on [E-commerce Website](http://e-commerce-headphones-s.vercel.app/)
 * I'm learning Svelte 5 with Tailwind
