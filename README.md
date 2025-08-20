@@ -6,7 +6,7 @@ Hi! My name is Amjad Ali
 Front-end Developer and Software Enginner
 ------------------------------------------
 
-I am a skilled Software Engineer and Front-End Developer with extensive expertise in building high-quality, responsive, and user-centric web applications. Proficient in HTML, CSS, JavaScript, Svelte, and SvelteKit, I specialize in crafting optimized, visually appealing websites with clean, maintainable code. My approach prioritizes user-centered design, ensuring seamless and engaging user experiences.
+I am a Software Engineer and Front-End Developer with extensive expertise in building high-quality, responsive, and user-centric web applications. Proficient in HTML, CSS, JavaScript, Svelte, and SvelteKit, I specialize in crafting optimized, visually appealing websites with clean, maintainable code. My approach prioritizes user-centered design, ensuring seamless and engaging user experiences.
 
 
 * See my portfolio at [my portfolio](https://my-own-qvns.vercel.app/)
