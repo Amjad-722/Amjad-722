@@ -6,7 +6,7 @@ Hi! My name is Amjad Ali
 Front-end Developer and Software Enginner
 ------------------------------------------
 
-Hey Welcome! to my profile , Am A web developer with extensive experience in HTML, CSS, JavaScript ,Svelte,Sveltekit . I can build fully responsive ,Eye Catching and user friendly websites that are optimized . My focus is on writing clean code and creating user-centered designs . Services I Offer: Frontend Development, HTML, CSS, Tailwind Figma to HTML, xd to HTML, Canva to Html, JavaScript, Svelte, SvelteKIT, Bug Fixing,
+I am a skilled Software Engineer and Front-End Developer with extensive expertise in building high-quality, responsive, and user-centric web applications. Proficient in HTML, CSS, JavaScript, Svelte, and SvelteKit, I specialize in crafting optimized, visually appealing websites with clean, maintainable code. My approach prioritizes user-centered design, ensuring seamless and engaging user experiences.
 
 
 * See my portfolio at [my portfolio](https://my-own-qvns.vercel.app/)
