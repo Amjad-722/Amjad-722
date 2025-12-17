@@ -3,7 +3,7 @@
 Hi! My name is Amjad Ali
 ==========================
 
-Front-end Developer and Software Enginner
+Front-end Developer and Software Engineer
 ------------------------------------------
 
 I am a Software Engineer and Front-End Developer with extensive expertise in building high-quality, responsive, and user-centric web applications. Proficient in HTML, CSS, JavaScript, Svelte, and SvelteKit, I specialize in crafting optimized, visually appealing websites with clean, maintainable code. My approach prioritizes user-centered design, ensuring seamless and engaging user experiences.
@@ -13,7 +13,7 @@ I am a Software Engineer and Front-End Developer with extensive expertise in bui
 * You can contact me at [aliamjadnagari@gmail.com](mailto:aliamjadnagari@gmail.com)
 * I'm currently working on this product[check-your-internet-speed](https://check-ur-internet-speed.vercel.app/)
 * I'm learning Svelte 5 with Tailwind
-  I'm open to collaborating on Front end Development
+  I'm open to collaborating on front-end development
 
 <a href="https://www.github.com/Amjad-722" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amjad-722?logo=github&style=for-the-badge&color=ef4444&labelColor=14532d" /></a>
