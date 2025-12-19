@@ -11,7 +11,7 @@ I am a Software Engineer and Front-End Developer with extensive expertise in bui
 
 * See my portfolio at [my portfolio](https://best-portfolio-woad.vercel.app/)
 * You can contact me at [aliamjadnagari@gmail.com](mailto:aliamjadnagari@gmail.com)
-* I'm currently working on this product[check-your-internet-speed](https://check-ur-internet-speed.vercel.app/)
+* I'm currently working on this product[check-your-internet-speed](https://medi-connect-pearl.vercel.app)
 * I'm learning Svelte 5 with Tailwind
   I'm open to collaborating on front-end development
 
