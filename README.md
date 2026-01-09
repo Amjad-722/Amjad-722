@@ -29,22 +29,4 @@ src="https://img.shields.io/github/followers/Amjad-722?logo=github&style=for-the
 ### Socials
 
 <a href="https://app.daily.dev/amjadali52"><img src="https://api.daily.dev/devcards/v2/ztxY3UeNU8ky2h4r6DF8F.png?type=default&r=27s" width="356" alt="Amjad Ali's Dev Card"/></a>
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Amjad-722"><img src="https://github-readme-stats.vercel.app/api?username=Amjad-722&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&show_icons=true" alt="Amjad-722's GitHub stats" /></a>
-
-<a href="http://www.github.com/Amjad-722"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amjad-722&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Amjad-722"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amjad-722&bg_color=14532d&color=ffffff&line=ef4444&point=ffffff&area_color=14532d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Amjad-722" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amjad-722&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Amjad-722/MB-front" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad-722&repo=MB-front&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a><a href="https://github.com/Amjad-722/Svelt-5-Curd-Operationes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad-722&repo=Svelt-5-Curd-Operationes&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Amjad-722/Svelte-Weather-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad-722&repo=Svelte-Weather-App&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a><a href="https://github.com/Amjad-722/Steak-House" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad-722&repo=Steak-House&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=14532d&hide_border=true&locale=en" /></a></div>
