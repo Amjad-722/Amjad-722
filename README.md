@@ -95,14 +95,6 @@ const amjad = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjad-722&bg_color=0d0d0d&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
